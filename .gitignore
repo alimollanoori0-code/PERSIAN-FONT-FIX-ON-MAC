@@ -1,0 +1,10 @@
+# Never commit font files: they are not under a free license
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
+persian-font-backup-*/
+*.tmp-fix
+__pycache__/
+.DS_Store
